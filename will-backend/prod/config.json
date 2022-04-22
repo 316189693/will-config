@@ -2,7 +2,7 @@
   "privkey_file": "../enc/privkey.pem",
   "cacert_file": "../enc/cacert.pem",
 
-  "allow_cros_origin_array": ["https://42.192.226.123:8000", "https://10.0.4.15:8000"],
+  "allow_cros_origin_array": ["https://42.192.226.123:8000", "https://10.0.4.15:8000","https://localhost:8000","http://localhost:8000"],
 
   "port": 7000
 }
