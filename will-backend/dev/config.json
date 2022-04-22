@@ -1,0 +1,10 @@
+{
+
+
+  "privkey_file": "../enc/privkey.pem",
+  "cacert_file": "../enc/cacert.pem",
+
+  "allow_cros_origin_array": ["https://localhost:8000","http://localhost:8000"],
+
+  "port": 7000
+}
