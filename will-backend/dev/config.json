@@ -1,5 +1,12 @@
 {
+  "mysql_seckill_host": "42.192.226.123",
+  "mysql_seckill_port": 12986,
+  "mysql_seckill_db": "seckill",
+  "mysql_seckill_user": "htjy",
+  "mysql_seckill_psw": "gGh$5ojkGDGDff",
 
+  "logger_path": "d:/logger",
+  "logger_file": "logger",
 
   "privkey_file": "../enc/privkey.pem",
   "cacert_file": "../enc/cacert.pem",
