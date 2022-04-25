@@ -5,6 +5,11 @@
   "mysql_seckill_user": "htjy",
   "mysql_seckill_psw": "gGh$5ojkGDGDff",
 
+  "redis_seckill_host": "42.192.226.123",
+  "redis_seckill_port": 2345,
+  "redis_seckill_username": "root",
+  "redis_seckill_psw": "Tmsd2034",
+
   "logger_path": "d:/logger",
   "logger_file": "logger",
 
@@ -12,6 +17,8 @@
   "cacert_file": "../enc/cacert.pem",
 
   "allow_cros_origin_array": ["https://localhost:8000","http://localhost:8000"],
+
+  "expire_token": 900,
 
   "port": 7000
 }
